@@ -1,7 +1,7 @@
 # Hackzon-2022---Bright-Byte
 This code is implimented in a way so that id cards can be exchanged with digital bandswhich emits a word. When the word is scanned by the program a student whose information is connected to the word is dispkayed,
 #Steps of execution of the project:
-1. Start the applicatio
+1. Start the application
 2. say the word assigned to the student
 3. wait for the student information to be displayed
 
