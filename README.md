@@ -9,4 +9,4 @@ This code is implimented in a way so that id cards can be exchanged with digital
 #screenshot
 
 
-![bula](https://user-images.githubusercontent.com/66625261/202253170-d662c5ef-5628-4c76-b670-2465c88b223b.jpg)
+![sgsagrs](https://user-images.githubusercontent.com/66625261/202254311-ce566d9b-4802-4e49-a39f-1745ebe8c45d.jpg)
