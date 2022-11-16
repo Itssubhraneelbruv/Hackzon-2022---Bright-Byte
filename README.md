@@ -7,5 +7,6 @@ This code is implimented in a way so that id cards can be exchanged with digital
 
 
 #screenshot
-![WhatsApp Image 2022-11-16 at 22 17 51](https://user-images.githubusercontent.com/66625261/202251497-54c196b8-01b9-49ce-aa59-49f6090313b3.jpg)
 
+
+![bula](https://user-images.githubusercontent.com/66625261/202253170-d662c5ef-5628-4c76-b670-2465c88b223b.jpg)
